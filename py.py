@@ -23,7 +23,7 @@ async def send_welcome(message: types.Message):
         KeyboardButton("📙7-sinf kitoblari📚"),
         KeyboardButton("📙8-sinf kitoblari📚"),
         KeyboardButton("📙9-sinf kitoblari📚"),
-        KeyboardButton("📙10-sinf kitoblar📚"),
+        KeyboardButton("📙10-sinf kitoblari📚"),
         KeyboardButton("📙11-sinf kitoblari📚"),
         KeyboardButton("📙Python kitoblar📚")
         )
